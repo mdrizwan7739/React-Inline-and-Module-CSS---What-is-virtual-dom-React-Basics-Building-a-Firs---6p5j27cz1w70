@@ -1,6 +1,6 @@
 import React from 'react'
 import '../styles/App.css';
-import styles from '../styles/appStyles.module.css';
+import  '../styles/appStyles.module.css';
 const App = () => {
 const heading ={
   color: 'red', 
